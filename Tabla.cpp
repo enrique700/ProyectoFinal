@@ -10,7 +10,7 @@ int a=0,b;
 
  scanf ("%d",&b);
 
-for(a=1;a<=20;a++)
+for(a=1;a<=12;a++)
 
 printf("\n %d x %d = %d",b,a,b*a);
 
